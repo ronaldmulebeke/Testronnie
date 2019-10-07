@@ -1,7 +1,7 @@
 # Testronnie
 Bitssdemo
 
-first line in readme file
+first line in readme file EDIT SOMTHING LOCALLY
 here i define my variables
 here i restrict the sample
 i have commited
